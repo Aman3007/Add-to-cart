@@ -60,20 +60,19 @@ Fetch API - HTTP requests
 
 📁 Project Structure
 
-
-    
-├── backend
+├── backend/
 │   ├── server.js           # Express server and API routes
 │   ├── package.json        # Backend dependencies
 │   ├── .env               # Environment variables (not in git)
-│   ── .gitignore
+│   └──  .gitignore     
 │
-├── frontend
-│   ├── src
+├── frontend/
+│   ├── src/
 │   │   ├── App.js         # Main React component
 │   │   └── index.js       # React entry point
-│   ├── public
+│   ├── public/
 │   ├── package.json       # Frontend dependencies
 │   └── tailwind.config.js # Tailwind configuration
 │
+├
 └── README.md
