@@ -71,7 +71,7 @@ Fetch API - HTTP requests
 │   └──  .gitignore     
 
 
-│
+
 ├── frontend/
 
 │   ├── src/
@@ -86,6 +86,5 @@ Fetch API - HTTP requests
  
 │   └── tailwind.config.js                       # Tailwind configuration
 
-│
-├
+
 └── README.md
