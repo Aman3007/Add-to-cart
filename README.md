@@ -61,6 +61,7 @@ Fetch API - HTTP requests
 📁 Project Structure
 
 ├── backend/
+
 │   ├── server.js           # Express server and API routes
 
 │   ├── package.json        # Backend dependencies
