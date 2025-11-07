@@ -6,12 +6,19 @@ Features a complete shopping experience with product browsing, cart management, 
 ✨ Features
 
 🛍️ Product Catalog - Browse products with detailed information
+
 🛒 Shopping Cart - Add, remove, and update product quantities
+
 📦 Order Management - Complete checkout process with customer information
+
 🔄 Real-time Updates - Dynamic cart updates without page refresh
+
 📱 Responsive Design - Works seamlessly on desktop and mobile devices
+
 🎨 Modern UI - Clean interface with Tailwind CSS
+
 🔌 REST API - Well-structured backend API endpoints
+
 🗄️ MongoDB Database - Persistent data storage
 
 🚀 Tech Stack
@@ -19,10 +26,15 @@ Features a complete shopping experience with product browsing, cart management, 
 Backend
 
 Node.js - JavaScript runtime
+
 Express.js - Web application framework
+
 MongoDB - NoSQL database
+
 Mongoose - MongoDB object modeling
+
 CORS - Cross-origin resource sharing
+
 dotenv - Environment variable management
 
 Frontend
@@ -48,7 +60,7 @@ Fetch API - HTTP requests
 
 📁 Project Structure
 
-    vibe-commerce
+
     
 ├── backend
 │   ├── server.js           # Express server and API routes
