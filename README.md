@@ -1,6 +1,8 @@
 🛒 Vibe Commerce - Full-Stack E-Commerce Application
+
 A modern, full-stack e-commerce web application built with Node.js, Express, MongoDB, and React. 
 Features a complete shopping experience with product browsing, cart management, and order processing.
+
 ✨ Features
 
 🛍️ Product Catalog - Browse products with detailed information
@@ -13,6 +15,7 @@ Features a complete shopping experience with product browsing, cart management, 
 🗄️ MongoDB Database - Persistent data storage
 
 🚀 Tech Stack
+
 Backend
 
 Node.js - JavaScript runtime
@@ -30,16 +33,20 @@ Lucide React - Beautiful icon library
 Fetch API - HTTP requests
 
 🛠️ Installation & Setup
+
 1. Clone the Repository
+   
    git clone https://github.com/Aman3007/Add-to-cart.git
    cd Add-to-cart
 
-2. Backend Setup
+3. Backend Setup
+   
    cd backend
    npm install
 
 📁 Project Structure
-    vibe-commerce/
+    vibe-commerce
+    
 ├── backend/
 │   ├── server.js           # Express server and API routes
 │   ├── package.json        # Backend dependencies
