@@ -62,27 +62,29 @@ Fetch API - HTTP requests
 
 ├── backend/
 
-│   ├── server.js           # Express server and API routes
+│   ├── server.js                               # Express server and API routes
 
-│   ├── package.json        # Backend dependencies
+│   ├── package.json                            # Backend dependencies
 
-│   ├── .env               # Environment variables (not in git)
+│   ├── .env                                    # Environment variables (not in git)
 
 │   └──  .gitignore     
+
+
 │
 ├── frontend/
 
 │   ├── src/
 
-│   │   ├── App.js         # Main React component
+│   │   ├── App.js                               # Main React component
 
-│   │   └── index.js       # React entry point
+│   │   └── index.js                             # React entry point
 
 │   ├── public/
 
-│   ├── package.json       # Frontend dependencies
-
-│   └── tailwind.config.js # Tailwind configuration
+│   ├── package.json                             # Frontend dependencies
+ 
+│   └── tailwind.config.js                       # Tailwind configuration
 
 │
 ├
