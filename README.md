@@ -37,27 +37,30 @@ Fetch API - HTTP requests
 1. Clone the Repository
    
    git clone https://github.com/Aman3007/Add-to-cart.git
+   
    cd Add-to-cart
 
 3. Backend Setup
    
    cd backend
+   
    npm install
 
 📁 Project Structure
+
     vibe-commerce
     
-├── backend/
+├── backend
 │   ├── server.js           # Express server and API routes
 │   ├── package.json        # Backend dependencies
 │   ├── .env               # Environment variables (not in git)
 │   ── .gitignore
 │
-├── frontend/
-│   ├── src/
+├── frontend
+│   ├── src
 │   │   ├── App.js         # Main React component
 │   │   └── index.js       # React entry point
-│   ├── public/
+│   ├── public
 │   ├── package.json       # Frontend dependencies
 │   └── tailwind.config.js # Tailwind configuration
 │
